@@ -7,3 +7,5 @@
 </br>(1) Kraken2: https://github.com/DerrickWood/kraken2
 </br>(2) Bracken: https://github.com/jenniferlu717/Bracken
 </br>(3) Centrifuge: https://github.com/infphilo/centrifuge/
+## 3. toolkit
+</br>(1) Seqtk: https://github.com/lh3/seqtk
