@@ -14,3 +14,4 @@
 </br>(1) https://github.com/kblin/ncbi-genome-download
 ## 5. Duplicate Removing
 </br>(1) https://github.com/Sami-Altayyar/Fast-HBR
+</br>(2) https://github.com/yuansliu/minirmd
