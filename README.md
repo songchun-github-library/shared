@@ -12,3 +12,5 @@
 </br>(1) Seqtk: https://github.com/lh3/seqtk
 ## 4. Download
 </br>(1) https://github.com/kblin/ncbi-genome-download
+## 5. Duplicate Removing
+</br>(1) https://github.com/Sami-Altayyar/Fast-HBR
