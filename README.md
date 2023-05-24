@@ -10,6 +10,7 @@
 </br>(3) Centrifuge: https://github.com/infphilo/centrifuge/
 ## 3. Toolkit
 </br>(1) Seqtk: https://github.com/lh3/seqtk
+</br>(2) fastp: https://github.com/OpenGene/fastp
 ## 4. Download
 </br>(1) https://github.com/kblin/ncbi-genome-download
 ## 5. Duplicate Removing
