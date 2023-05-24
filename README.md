@@ -11,6 +11,7 @@
 ## 3. Toolkit
 </br>(1) Seqtk: https://github.com/lh3/seqtk
 </br>(2) fastp: https://github.com/OpenGene/fastp
+</br>(3) freebayes: https://github.com/freebayes/freebayes
 ## 4. Download
 </br>(1) https://github.com/kblin/ncbi-genome-download
 ## 5. Duplicate Removing
