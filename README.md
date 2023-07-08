@@ -21,4 +21,4 @@
 </br>(1) https://github.com/RahmanTeam/DECoN
 ## 7. Variant Calling
 </br>(1)https://github.com/AstraZeneca-NGS/VarDictJava
-</br>(2)
+</br>(2)https://github.com/broadinstitute/gatk
