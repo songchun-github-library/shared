@@ -19,3 +19,6 @@
 </br>(2) https://github.com/yuansliu/minirmd
 ## 6. CNV
 </br>(1) https://github.com/RahmanTeam/DECoN
+## 7. Variant Calling
+</br>(1)https://github.com/AstraZeneca-NGS/VarDictJava
+</br>(2)
