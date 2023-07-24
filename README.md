@@ -22,3 +22,6 @@
 ## 7. Variant Calling
 </br>(1)https://github.com/AstraZeneca-NGS/VarDictJava
 </br>(2)https://github.com/broadinstitute/gatk
+## 8. Reviewer
+</br>(1)https://github.com/Illumina/REViewer
+</br>(2)
