@@ -28,3 +28,5 @@
 ## 9. SV
 </br> (1)https://github.com/Illumina/manta
 </br> (2)https://github.com/Nobel-Justin/SOAPfuse
+## 10. Bayes
+</br> (1)https://github.com/AllenDowney/ThinkBayes2
