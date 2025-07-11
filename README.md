@@ -30,3 +30,5 @@
 </br> (2)https://github.com/Nobel-Justin/SOAPfuse
 ## 10. Bayes
 </br> (1)https://github.com/AllenDowney/ThinkBayes2
+## 11. 16S
+</br> (1) https://github.com/qiime2
